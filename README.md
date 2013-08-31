@@ -26,7 +26,7 @@ Example
 
 Usage
 =====
-Open a command prompt:
+Open a command prompt as an administrator:
 <pre>
 C:\> IEScreenCapt
  -----------------------------------------------------------------------------
@@ -40,6 +40,10 @@ C:\> IEScreenCapt
   --diff | -df           Generate and show the diff image (default: no)
  -----------------------------------------------------------------------------
 </pre>
+
+Dependencies
+============
+In order to run this program, you must have the <a href="http://www.microsoft.com/en-us/download/details.aspx?id=30653">.NET 4.5 framework</a> installed on your computer.
 
 Important Notes
 ===============
