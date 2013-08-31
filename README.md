@@ -5,6 +5,42 @@ This little command-line utility is used to capture a web page into various imag
 
 Example
 =======
-<img src="https://raw.github.com/manekinekko/internet-explorer-web-capture/master/IEScreenCapt/bin/Debug/tmp/ref.png" alt="The image used as the reference" style="display:inline-block; width: 150px;"/>
-<img src="https://raw.github.com/manekinekko/internet-explorer-web-capture/master/IEScreenCapt/bin/Debug/tmp/ie-tester-ie7.png" alt="The output of the web page using the IE7 rendering engine" style="display:inline-block; width: 150px;"/>
-<img src="https://raw.github.com/manekinekko/internet-explorer-web-capture/master/IEScreenCapt/bin/Debug/tmp/diff.png" alt="The diff image" style="display:inline-block; width: 150px;"/>
+
+<span style="display: inline-block;">
+ <img src="https://raw.github.com/manekinekko/internet-explorer-web-capture/master/IEScreenCapt/bin/Debug/tmp/ref.png" title="The image used as the reference" alt="The image used as the reference" width="250px"/>
+ <br/>
+ <b>The ref image using the most recent IE installed (using the edge mode).</b>
+</span>
+
+<span style="display: inline-block;">
+ <img src="https://raw.github.com/manekinekko/internet-explorer-web-capture/master/IEScreenCapt/bin/Debug/tmp/ie-tester-ie7.png" title="The output of the web page using the IE7 rendering engine" alt="The output of the web page using the IE7 rendering engine" width="250px"/>
+ <br/>
+ <b>Web capture using IE7 rendering</b>
+</span>
+
+<span style="display: inline-block;">
+ <img src="https://raw.github.com/manekinekko/internet-explorer-web-capture/master/IEScreenCapt/bin/Debug/tmp/diff.png" title="The diff image" alt="The diff image" width="250px"/>
+ <br/>
+ <b>Diff output. Only different pixels are highlighted.</b>
+</span>
+
+Usage
+=====
+Open a command prompt:
+<pre>
+C:\> IEScreenCapt
+ -----------------------------------------------------------------------------
+ Usage: IEScreenCapt -u=http://google.com
+ -----------------------------------------------------------------------------
+ Options:
+  --url | -u             The URL to capture
+  --out | -o             The target file (.png|jpeg|bmp|emf|tiff)
+  --min-width | -mw      Minimal width for the image (default: 800)
+  --delay | -dy          Capturing delay in ms (default: 1)
+  --diff | -df           Generate and show the diff image (default: no)
+ -----------------------------------------------------------------------------
+</pre>
+
+Important Notes
+===============
+This "up-to-date" command line utility is based on the work of Björn Höhrmann. He is the author of <a href="http://iecapt.sourceforge.net/">IECapt</a>. All credits go to him for his original work ^^.
