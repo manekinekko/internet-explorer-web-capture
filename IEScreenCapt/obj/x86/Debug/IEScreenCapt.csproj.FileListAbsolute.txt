@@ -1,0 +1,7 @@
+c:\users\wchegham\documents\visual studio 2010\Projects\IEScreenCapt\IEScreenCapt\bin\Debug\IEScreenCapt.exe
+c:\users\wchegham\documents\visual studio 2010\Projects\IEScreenCapt\IEScreenCapt\bin\Debug\IEScreenCapt.pdb
+c:\users\wchegham\documents\visual studio 2010\Projects\IEScreenCapt\IEScreenCapt\bin\Debug\AxSHDocVw.dll
+c:\users\wchegham\documents\visual studio 2010\Projects\IEScreenCapt\IEScreenCapt\obj\x86\Debug\IEScreenCapt.csprojResolveAssemblyReference.cache
+c:\users\wchegham\documents\visual studio 2010\Projects\IEScreenCapt\IEScreenCapt\obj\x86\Debug\IEScreenCapt.exe
+c:\users\wchegham\documents\visual studio 2010\Projects\IEScreenCapt\IEScreenCapt\obj\x86\Debug\IEScreenCapt.pdb
+c:\users\wchegham\documents\visual studio 2010\Projects\IEScreenCapt\IEScreenCapt\obj\x86\Debug\IEScreenCapt.csproj.ResolveComReference.cache
