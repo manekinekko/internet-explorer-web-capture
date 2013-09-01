@@ -44,7 +44,7 @@ Options:
 </pre>
 
 Here is a simple BAT file:
-<pre>
+```bat
 @echo off
 set url=%1
 set ref="%tmp%/IECapt/%url%-edge.png"
@@ -54,8 +54,8 @@ rem because this will be the ref image, no need the run a diff operation
 if not exist %ref% IEScreenCapt.exe -u=%url% -ie="edge" -df="no" -dg="no" -s="yes"
 
 rem capture the url in IE7 mode, and generate a diff output using the ref image
-IEScreenCapt.exe 	-u=%url% 	-ie="7" 	-df="yes" -rf=%ref% -dg="yes" -s="yes"
-</pre>
+IEScreenCapt.exe -u=%url% -ie="7" -df="yes" -rf=%ref% -dg="yes" -s="yes"
+```
 
 The BAT file is used as follow:
 <pre>
