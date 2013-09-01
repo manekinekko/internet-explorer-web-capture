@@ -1,0 +1,6 @@
+C:\Dev\IECapture\IEScreenCapt\bin\Debug\IEScreenCapt.exe
+C:\Dev\IECapture\IEScreenCapt\bin\Debug\IEScreenCapt.pdb
+C:\Dev\IECapture\IEScreenCapt\bin\Debug\AxSHDocVw.dll
+C:\Dev\IECapture\IEScreenCapt\obj\x86\Debug\IECapt.csproj.ResolveComReference.cache
+C:\Dev\IECapture\IEScreenCapt\obj\x86\Debug\IEScreenCapt.exe
+C:\Dev\IECapture\IEScreenCapt\obj\x86\Debug\IEScreenCapt.pdb
