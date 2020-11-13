@@ -77,7 +77,7 @@ IE Silent Mode: True
 
 Dependencies
 ============
-In order to run this program, you must have the <a href="http://www.microsoft.com/en-us/download/details.aspx?id=30653">.NET 4.5 framework</a> installed on your computer.
+In order to run this program, you must have the <a href="https://www.microsoft.com/download/details.aspx?id=30653&WT.mc_id=javascript-0000-wachegha">.NET 4.5 framework</a> installed on your computer.
 
 Important Notes
 ===============
